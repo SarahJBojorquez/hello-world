@@ -1,2 +1,2 @@
-# hello-world
+hello-world
 Obligatory Hello World Repo 
